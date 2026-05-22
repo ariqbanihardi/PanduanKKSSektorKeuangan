@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
-* [Panduan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia](panduan-ketahanan-and-keamanan-siber-sektor-keuangan-indonesia.md)
+* [Panduan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia](README.md)
 * [Bab I](bab-i.md)
 * [Bab II](bab-ii.md)
 * [Bab III](bab-iii.md)
