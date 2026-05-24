@@ -34,7 +34,7 @@ Dengan pendekatan ini, roadmap dapat dibagi menjadi tiga lapisan.&#x20;
 {% step %}
 **Baseline Minimum**
 
-Inisiatif yang diperlukan untuk memenuhi target Level 3 dan memastikan kebijakan, prosedur, kontrol, pemilik risiko, serta bukti penerapan tersedia. Lapisan ketiga adalah , yaitu&#x20;
+Inisiatif yang diperlukan untuk memenuhi target Level 3 dan memastikan kebijakan, prosedur, kontrol, pemilik risiko, serta bukti penerapan tersedia. &#x20;
 {% endstep %}
 
 {% step %}
@@ -50,9 +50,9 @@ Inisiatif jangka menengah dan panjang untuk meningkatkan otomasi, integrasi, res
 {% endstep %}
 {% endstepper %}
 
-#### **Sesuai dengan Kondisi & Karakteristik Organisasi**
+#### **Proporsional dengan Kondisi & Karakteristik Organisasi**
 
-Penyusunan roadmap KKS perlu disesuaikan dengan kondisi aktual masing-masing organisasi. Roadmap tidak dapat dibuat dengan pendekatan yang seragam untuk seluruh entitas sektor keuangan, karena setiap organisasi memiliki tingkat kompleksitas layanan, skala bisnis, profil risiko, kapasitas sumber daya, model operasional TI, ketergantungan pihak ketiga, dan eksposur regulasi yang berbeda. Oleh karena itu, hasil penilaian IKAS harus dibaca bersama dengan konteks organisasi agar rencana peningkatan yang disusun bersifat realistis, proporsional, dapat dieksekusi, dan benar-benar berdampak pada penurunan risiko.
+Penyusunan roadmap KKS perlu proporsional dan disesuaikan dengan kondisi aktual masing-masing organisasi. Roadmap tidak dapat dibuat dengan pendekatan yang seragam untuk seluruh entitas sektor keuangan, karena setiap organisasi memiliki tingkat kompleksitas layanan, skala bisnis, profil risiko, kapasitas sumber daya, model operasional TI, ketergantungan pihak ketiga, dan eksposur regulasi yang berbeda. Oleh karena itu, hasil penilaian IKAS harus dibaca bersama dengan konteks organisasi agar rencana peningkatan yang disusun bersifat realistis, proporsional, dapat dieksekusi, dan benar-benar berdampak pada penurunan risiko.
 
 Organisasi dengan tingkat kematangan yang masih rendah perlu memprioritaskan pembentukan fondasi tata kelola, penetapan kebijakan, penyusunan prosedur, inventarisasi aset, penunjukan pemilik kontrol, serta pengumpulan bukti penerapan. Sementara itu, organisasi yang telah mencapai Level 3 perlu mengarahkan roadmap pada peningkatan efektivitas kontrol, pengukuran kinerja, integrasi dengan manajemen risiko, audit, BCM, pelindungan data pribadi, dan penguatan respons insiden. Bagi organisasi yang telah berada pada Level 4, roadmap perlu diarahkan pada otomasi, continuous monitoring, threat intelligence, orkestrasi respons, pengujian ketahanan, dan pembentukan budaya keamanan siber yang berkelanjutan.
 
@@ -64,7 +64,7 @@ Dengan demikian, roadmap tidak hanya disusun berdasarkan skor IKAS, tetapi juga 
 Roadmap peningkatan KKS harus realistis terhadap kondisi organisasi, tetapi tetap ambisius terhadap kebutuhan ketahanan dan keamanan siber. Organisasi tidak perlu meniru roadmap pihak lain secara utuh. Yang diperlukan adalah roadmap yang berbasis hasil IKAS, selaras dengan profil risiko, mempertimbangkan kapasitas sumber daya, dan memprioritaskan perlindungan terhadap layanan keuangan yang paling kritikal.
 {% endhint %}
 
-#### Segmentasi Roadmap Berdasarkan Kondisi Organisasi
+#### Segmentasi Roadmap berdasarkan Kondisi Organisasi
 
 <table data-view="cards"><thead><tr><th>Kondisi Organisasi</th><th>Fokus Roadmap</th><th>Contoh Prioritas</th></tr></thead><tbody><tr><td><strong>Organisasi dengan kematangan rendah</strong><br>Level 1–2</td><td>Membangun fondasi tata kelola, dokumentasi, pemilik kontrol, risk register, dan penerapan kontrol dasar secara konsisten.</td><td>SK tim KKS, kebijakan keamanan siber, inventaris aset, klasifikasi data, prosedur akses, backup, logging dasar, incident response plan, dan evidence register.</td></tr><tr><td><strong>Organisasi pada baseline minimum</strong><br>Level 3</td><td>Memastikan kontrol telah berjalan konsisten, direviu berkala, dan mulai diukur efektivitasnya.</td><td>Dashboard KKS, KRI/KPI, control testing, audit intern TI berbasis risiko, simulasi insiden, uji restore, review vendor kritikal, dan monitoring tindak lanjut.</td></tr><tr><td><strong>Organisasi dengan kematangan menengah-tinggi</strong><br>Level 4</td><td>Mengintegrasikan kontrol, memperkuat monitoring, menjalankan perbaikan berkelanjutan, dan meningkatkan otomasi.</td><td>SIEM/SOAR, threat intelligence, continuous control monitoring, fraud-cyber correlation, automated alert triage, cyber resilience testing, dan third-party continuous assurance.</td></tr><tr><td><strong>Organisasi dengan target inovatif</strong><br>Level 5</td><td>Membangun keamanan siber sebagai budaya organisasi dan kemampuan adaptif terhadap ancaman baru.</td><td>Purple teaming, security chaos exercise, automated response, secure-by-design, zero trust maturity, security culture measurement, dan pembelajaran pascainsiden yang terintegrasi.</td></tr></tbody></table>
 
@@ -84,7 +84,7 @@ Berikut adalah tabel strategi peningkatan level yang dapat digunakan oleh organi
 
 <table><thead><tr><th width="106.86846923828125" valign="top">Level Up</th><th width="144.41796875" valign="top">Fokus Strategi</th><th valign="top">Inisiatif Utama</th><th valign="top">Bukti Keberhasilan</th></tr></thead><tbody><tr><td valign="top"><strong>Level 1 → Level 2</strong></td><td valign="top">Membangun praktik dasar yang berulang.</td><td valign="top">Menunjuk penanggung jawab, menyusun daftar aset awal, membuat prosedur minimum, menjalankan kontrol dasar, dan mulai mengumpulkan bukti.</td><td valign="top">Dokumen draft, daftar aset awal, catatan aktivitas kontrol, bukti penerapan terbatas, dan rencana formalisasi.</td></tr><tr><td valign="top"><strong>Level 2 → Level 3</strong></td><td valign="top">Memformalkan dan menstandarkan kontrol.</td><td valign="top">Menetapkan kebijakan dan SOP, menetapkan risk register, mengesahkan pemilik kontrol, menerapkan kontrol secara konsisten, dan melakukan reviu berkala.</td><td valign="top">Kebijakan/SOP disahkan, kontrol diterapkan lintas unit, notulen reviu, laporan monitoring, dan bukti pelaksanaan konsisten.</td></tr><tr><td valign="top"><strong>Level 3 → Level 4</strong></td><td valign="top">Mengelola, mengukur, dan memperbaiki efektivitas kontrol.</td><td valign="top">Membangun dashboard KKS, KRI/KPI, control testing, audit berbasis risiko, continuous monitoring, simulasi insiden, dan pengelolaan risiko pihak ketiga terukur.</td><td valign="top">Dashboard, hasil control testing, laporan audit, tren KRI, laporan exercise, laporan vendor assurance, dan bukti perbaikan berkelanjutan.</td></tr><tr><td valign="top"><strong>Level 4 → Level 5</strong></td><td valign="top">Mengintegrasikan, mengotomasi, dan membudayakan keamanan siber.</td><td valign="top">Mengintegrasikan SIEM/SOAR, threat intelligence, automated response, continuous control monitoring, purple teaming, secure-by-design, dan security culture measurement.</td><td valign="top">Otomasi deteksi-respons, playbook teruji, pembelajaran pascainsiden, metrik budaya keamanan, dan perbaikan adaptif terhadap ancaman baru.</td></tr></tbody></table>
 
-## 5.4. Prioritas Roadmap Berdasarkan Domain IKAS
+## 5.3. Prioritas Roadmap Berdasarkan Domain IKAS
 
 Agar roadmap lebih mudah dieksekusi, strategi peningkatan level perlu dipetakan ke empat domain IKAS. Kontrol penilaian di dalam IKAS dibagi ke dalam domain Identifikasi, Proteksi, Deteksi, dan Pemulihan/Gulih. Setiap domain memiliki sasaran peningkatan yang berbeda, namun saling terhubung dalam membangun ketahanan siber organisasi.
 
