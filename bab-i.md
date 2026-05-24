@@ -25,13 +25,15 @@ Dokumen panduan ini tidak menggantikan ketentuan regulator dan perlu disesuaikan
 ## Ringkasan Eksekutif
 
 {% hint style="info" icon="briefcase" %}
-Panduan ini membantu lembaga sektor keuangan di Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Keamanan dan Ketahanan Siber (KKS)** secara terstruktur. Panduan ini menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, lalu memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan.
+Panduan ini membantu lembaga sektor keuangan di Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Keamanan dan Ketahanan Siber (KKS)** secara terstruktur. Panduan ini menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, lalu memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan.Pesan utama yang ingin disampaikan melalui dokumen ini adalah&#x20;
 
-Pesan utama yang ingin disampaikan melalui dokumen ini adalah&#x20;
 
-<mark style="color:red;">**"Penguatan KKS sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"**</mark>&#x20;
 
-Hasil penilaian kematangan keamanan siber perlu diubah menjadi _risk-based roadmap_ yang akhirnya dapat membantu mengurangi risiko gangguan layanan kritikal, kebocoran data nasabah, fraud digital, gangguan sistem pembayaran, gangguan layanan digital, serta risiko pihak ketiga. Panduan ini juga menambahkan bab khusus terkait Tim Tanggap Insiden Siber (TTIS) sebagai tim atau unit resmi yang bertugas mencegah, mengelola, dan menanggulangi gangguan serta serangan keamanan siber dari organisasi.
+<p align="center"><mark style="color:red;"><strong>"Penguatan KKS sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"</strong></mark> </p>
+
+
+
+Hasil penilaian kematangan keamanan siber perlu diubah menjadi _risk-based roadmap_ yang akhirnya dapat membantu mengurangi risiko gangguan layanan kritikal, kebocoran data nasabah, fraud digital, gangguan sistem pembayaran, gangguan layanan digital, serta risiko pihak ketiga. Panduan ini juga menambahkan bab khusus terkait Tim Tanggap Insiden Siber (TTIS) sebagai tim atau unit resmi organisasi yang bertugas mencegah, mengelola, dan menanggulangi gangguan serta serangan keamanan siber dari organisasi. TTIS Organisasi yang terdaftar resmi terhubung dengan ekosistem TTIS sesuai dengan pengaturan, dan menjadi bagian dari upaya pemerintah dalam meningkatkan ketahanan dan keamanan siber secara nasional.
 {% endhint %}
 
 ***

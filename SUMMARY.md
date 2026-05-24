@@ -1,11 +1,12 @@
 # Table of contents
 
-* [Panduan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia](README.md)
+* [Cover](README.md)
+* [Document Version](document-version.md)
 * [Bab I](bab-i.md)
 * [Bab II](bab-ii.md)
 * [Bab III](bab-iii.md)
 * [Bab IV](bab-iv.md)
-* [Bab TTIS](bab-ttis.md)
+* [Bab V](bab-v.md)
+* [Bab VI](bab-vi.md)
 * [Referensi](referensi.md)
-* [Document Version](document-version.md)
-* [Draft Muatan](draft-muatan.md)
+* [Lampiran](lampiran.md)

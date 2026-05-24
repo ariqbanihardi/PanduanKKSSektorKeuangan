@@ -17,17 +17,23 @@ layout:
     visible: true
 ---
 
-# Panduan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia
+# Cover
 
-<p align="center">Direktorat Keamanan Siber dan Sandi Keuangan, Perdagangan dan Pariwisata</p>
+## Panduan Peningkatan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia
 
-<p align="center">BSSN</p>
+Direktorat Keamanan Siber dan Sandi Keuangan, Perdagangan dan Pariwisata
 
-<figure><img src=".gitbook/assets/BSSN Perisai Logo small.png" alt="BSSN Perisai" width="187"><figcaption></figcaption></figure>
+BSSN
 
-<p align="center">Status Document: Draft 0.2</p>
 
-<p align="center">2026</p>
+
+
+
+```
+Status Document: Draft
+```
+
+2026
 
 ***
 

@@ -239,15 +239,3 @@ Interprestasi domain IKAS untuk sektor keuangan menjadi penjelasan kontekstual A
 
 ***
 
-### Metrik KRI/KPI yang Direkomendasikan
-
-| Area                | Contoh KRI/KPI                                                                                      |
-| ------------------- | --------------------------------------------------------------------------------------------------- |
-| Asset & Data        | Persentase sistem kritikal yang memiliki owner, klasifikasi data, dan data flow terkini.            |
-| Access Control      | Persentase akun privileged yang menggunakan PAM/MFA; jumlah temuan akses berlebih.                  |
-| Vulnerability       | SLA patch kritikal; jumlah kerentanan kritikal melewati SLA; coverage vulnerability scanning.       |
-| Logging & Detection | Persentase sistem kritikal yang mengirim log ke SIEM; MTTD; false positive rate; coverage use case. |
-| Incident Response   | MTTR; jumlah insiden berulang; waktu notifikasi; kepatuhan playbook.                                |
-| Backup & Recovery   | Tingkat keberhasilan restore test; capaian RTO/RPO; coverage backup immutable/offline.              |
-| Third Party         | Persentase vendor kritikal dengan due diligence, klausul KKS, audit right, dan uji pemulihan.       |
-| Awareness           | Tingkat kelulusan pelatihan; phishing simulation fail rate; coverage role-based training.           |
