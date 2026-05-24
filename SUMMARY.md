@@ -8,5 +8,6 @@
 * [Bab IV](bab-iv.md)
 * [Bab V](bab-v.md)
 * [Bab VI](bab-vi.md)
+* [Glosarium dan Aturan Penulisan Istilah](glosarium.md)
 * [Referensi](referensi.md)
 * [Lampiran](lampiran.md)
