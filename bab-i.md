@@ -57,7 +57,7 @@ Panduan KKS untuk Sektor Keuangan di Indonesia dapat digunakan oleh berbagai pel
 * Pelaku pasar uang dan pasar valuta asing yang menggunakan sistem elektronik kritikal.
 * Lembaga jasa keuangan non-bank, termasuk pembiayaan, modal ventura, asuransi, reasuransi, penjaminan, dana pensiun, dan lembaga keuangan mikro.
 * Penyelenggara inovasi teknologi sektor keuangan, aset keuangan digital, agregator jasa keuangan, dan entitas lain yang memproses data/layanan keuangan digital.
-* Pihak ketiga kritikal yang menyediakan data center, cloud, core system, switching, payment gateway, managed SOC, aplikasi digital, jaringan komunikasi, atau layanan TI lainnya.
+* Penyelenggara penunjang seperti Pihak ketiga kritikal yang menyediakan data center, cloud, core system, switching, payment gateway, managed SOC, aplikasi digital, jaringan komunikasi, atau layanan TI lainnya.
 
 ## 1.3 Ruang Lingkup Sistem dan Layanan Kritikal
 
