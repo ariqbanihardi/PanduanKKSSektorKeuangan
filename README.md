@@ -45,7 +45,7 @@ layout:
 
 
 
-{% hint style="info" icon="file-lines" %}
+{% hint style="info" icon="scroll" %}
 <p align="center">Status Dokumen: <strong>Draft</strong></p>
 
 <p align="center">Klasifikasi: <strong>Terbuka</strong></p>

@@ -10,7 +10,7 @@ description: >-
 
 Penyusunan dokumen Panduan Keamanan dan Ketahanan Siber (KKS) untuk Sektor Keuangan di Indonesia menggunakan pendekatan kerangka regulasi yang ada khususnya di Sektor Keuangan Indonesia sehingga dapat menjadi panduan organisasi dalam meningkatkan keamanan dan ketahanan siber organisasi secara terukur.
 
-Aspek basic yang dibahas dalam dokumen ini terkait dengan penguatan aspek _people_, _procces_, dan _technology_ dengan domain standar dari _Instrumen Penilaian Kematangan Keamanan Siber (IKAS)_ yaitu Identifikasi, Deteksi, Proteksi, Penanggulangan dan Pemulihan. Target ideal dalam pemanfaatan panduan ini adalah peningkatan KKS organisasi untuk mencapai nilai/level ideal IKAS untuk keseluruhan domain.
+Aspek basic yang dibahas dalam dokumen ini terkait dengan penguatan aspek _people_, _procces_, dan _technology_ dengan domain standar dari **Instrumen Penilaian Kematangan Keamanan Siber (IKAS)** yaitu Identifikasi, Deteksi, Proteksi, Penanggulangan dan Pemulihan. Target ideal dalam pemanfaatan panduan ini adalah peningkatan KKS organisasi untuk mencapai nilai/level ideal IKAS untuk keseluruhan domain.
 
 KKS · IKAS · Sektor Keuangan
 
@@ -25,22 +25,22 @@ Dokumen panduan ini tidak menggantikan ketentuan regulator dan perlu disesuaikan
 ## Ringkasan Eksekutif
 
 {% hint style="info" icon="briefcase" %}
-Panduan ini membantu lembaga sektor keuangan di Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Keamanan dan Ketahanan Siber (KKS)** secara terstruktur. Panduan ini menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, lalu memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan.Pesan utama yang ingin disampaikan melalui dokumen ini adalah&#x20;
+Panduan ini membantu organisasi di sektor keuangan Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Keamanan dan Ketahanan Siber (KKS)** secara terstruktur dengan menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, kemudian memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan. Pesan utama yang ingin disampaikan melalui dokumen ini adalah&#x20;
 
 
 
-<p align="center"><mark style="color:red;"><strong>"Penguatan KKS sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"</strong></mark> </p>
+<p align="center"><mark style="color:red;"><strong>"Penguatan KKS di sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"</strong></mark> </p>
 
 
 
-Hasil penilaian kematangan keamanan siber perlu diubah menjadi _risk-based roadmap_ yang akhirnya dapat membantu mengurangi risiko gangguan layanan kritikal, kebocoran data nasabah, fraud digital, gangguan sistem pembayaran, gangguan layanan digital, serta risiko pihak ketiga. Panduan ini juga menambahkan bab khusus terkait Tim Tanggap Insiden Siber (TTIS) sebagai tim atau unit resmi organisasi yang bertugas mencegah, mengelola, dan menanggulangi gangguan serta serangan keamanan siber dari organisasi. TTIS Organisasi yang terdaftar resmi terhubung dengan ekosistem TTIS sesuai dengan pengaturan, dan menjadi bagian dari upaya pemerintah dalam meningkatkan ketahanan dan keamanan siber secara nasional.
+Hasil penilaian kematangan keamanan siber perlu diubah menjadi _risk-based roadmap_ yang menjadi referensi untuk membantu mengurangi risiko gangguan layanan kritikal, kebocoran data nasabah, fraud digital, gangguan sistem pembayaran, gangguan layanan digital, serta risiko pihak ketiga yang ada pada organisasi. Panduan ini juga menambahkan Bab khusus terkait Tim Tanggap Insiden Siber (TTIS) sebagai tim atau unit resmi organisasi yang bertugas mencegah, mengelola, dan menanggulangi gangguan serta serangan keamanan siber dari organisasi. TTIS Organisasi yang terdaftar resmi terhubung dengan ekosistem TTIS sesuai dengan pengaturan, dan menjadi bagian dari upaya pemerintah dalam meningkatkan ketahanan dan keamanan siber secara nasional.
 {% endhint %}
 
 ***
 
 ## 1.1 Tujuan Utama
 
-Panduan ini memiliki beberapa tujuan utama, yaitu:
+Panduan KKS untuk Sektor Keuangan di Indonesia memiliki beberapa tujuan utama, yaitu:
 
 1. Memberikan acuan praktis bagi lembaga sektor keuangan di Indonesia dalam melakukan penilaian kematangan KKS secara mandiri.
 2. Menyelaraskan pendekatan IKAS dengan konteks operasional sektor keuangan yang memiliki ketergantungan tinggi pada layanan yang terdigitalisasi, pengelolaan data nasabah, ekosistem sistem pembayaran, dan pihak ketiga.
@@ -49,7 +49,7 @@ Panduan ini memiliki beberapa tujuan utama, yaitu:
 
 ## 1.2 Ruang Lingkup Entitas Pengguna Panduan
 
-Panduan ini dapat digunakan oleh berbagai pelaku industri di sektor keuangan seperti:
+Panduan KKS untuk Sektor Keuangan di Indonesia dapat digunakan oleh berbagai pelaku industri di sektor keuangan seperti:
 
 * Bank umum konvensional dan syariah.
 * Bank Perekonomian Rakyat dan Bank Perekonomian Rakyat Syariah.
@@ -61,7 +61,7 @@ Panduan ini dapat digunakan oleh berbagai pelaku industri di sektor keuangan sep
 
 ## 1.3 Ruang Lingkup Sistem dan Layanan Kritikal
 
-Penilaian KKS sektor keuangan perlu mencakup sistem elektronik dan proses bisnis yang berdampak pada kerahasiaan, integritas, ketersediaan, keaslian, akuntabilitas, dan keandalan layanan keuangan. Beberapa lingkup Sistem dan Layanan Kritikal di sektor keuangan yang dapat diidentifikasi antara lain:
+Penilaian KKS di sektor keuangan perlu mendefinisikan cakupan sistem elektronik dan proses bisnis kritikal yang berdampak pada kerahasiaan, integritas, ketersediaan, keaslian, akuntabilitas, dan keandalan layanan. Beberapa lingkup Sistem dan Layanan Kritikal di sektor keuangan yang dapat diidentifikasi antara lain:
 
 * Core banking/core insurance/core financing.
 * Mobile banking, internet banking, super-app, digital onboarding, dan kanal layanan nasabah.
@@ -73,7 +73,7 @@ Penilaian KKS sektor keuangan perlu mencakup sistem elektronik dan proses bisnis
 
 ## 1.4 Prinsip Pemanfaatan Panduan
 
-{% hint style="warning" %}
+{% hint style="success" %}
 **Prinsip dasar:** Dasar penilaian yang baik adalah pembuktian. Angka yang diberikan tanpa bukti tidak akan mencerminkan kapabilitas keamanan yang sebenarnya.
 {% endhint %}
 
