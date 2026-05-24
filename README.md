@@ -19,7 +19,9 @@ layout:
 
 # Cover
 
-<h2 align="center">Panduan Peningkatan Ketahanan &#x26; Keamanan Siber Sektor Keuangan Indonesia</h2>
+<h2 align="center">Panduan Peningkatan Ketahanan &#x26; Keamanan Siber </h2>
+
+<h3 align="center">Untuk Industri di Sektor Keuangan Indonesia</h3>
 
 <p align="center">Direktorat Keamanan Siber dan Sandi Keuangan, Perdagangan dan Pariwisata</p>
 
@@ -43,10 +45,10 @@ layout:
 
 
 
-{% hint style="info" %}
-Status Document: **Draft**
+{% hint style="info" icon="file-lines" %}
+<p align="center">Status Dokumen: <strong>Draft</strong></p>
 
-Klasifikasi: **Terbuka**
+<p align="center">Klasifikasi: <strong>Terbuka</strong></p>
 {% endhint %}
 
 ***
