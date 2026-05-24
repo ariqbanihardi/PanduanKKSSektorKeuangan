@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Cover](README.md)
+* [Untitled](README.md)
+* [Cover](<README (1).md>)
 * [Document Version](document-version.md)
 * [Bab I](bab-i.md)
 * [Bab II](bab-ii.md)
