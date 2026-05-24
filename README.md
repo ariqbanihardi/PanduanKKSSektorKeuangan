@@ -19,21 +19,35 @@ layout:
 
 # Cover
 
-## Panduan Peningkatan Ketahanan & Keamanan Siber Sektor Keuangan Indonesia
+<h2 align="center">Panduan Peningkatan Ketahanan &#x26; Keamanan Siber Sektor Keuangan Indonesia</h2>
 
-Direktorat Keamanan Siber dan Sandi Keuangan, Perdagangan dan Pariwisata
+<p align="center">Direktorat Keamanan Siber dan Sandi Keuangan, Perdagangan dan Pariwisata</p>
 
-BSSN
+<p align="center">BSSN</p>
+
+<p align="center">2026</p>
 
 
 
 
 
-```
-Status Document: Draft
-```
 
-2026
+
+
+
+
+
+
+
+
+
+
+
+{% hint style="info" %}
+Status Document: **Draft**
+
+Klasifikasi: **Terbuka**
+{% endhint %}
 
 ***
 
