@@ -11,7 +11,7 @@ description: >-
 
 Laporan internal hasil penilaian KKS merupakan dokumen strategis yang perlu ditujukan kepada Direksi, Komite Risiko, Komite TI, Komite Keamanan Siber, atau forum tata kelola lain yang relevan di organisasi. Laporan ini tidak hanya menyampaikan hasil skor kematangan, tetapi juga menjelaskan implikasi risiko, dampak terhadap layanan kritikal, prioritas perbaikan, kebutuhan sumber daya, serta keputusan manajemen yang diperlukan. Laporan internal berfungsi sebagai jembatan antara hasil _self-assessment_ KKS dengan pengambilan keputusan organisasi. Laporan internal harus disusun secara  lengkap agar dapat mendukung proses otorisasi manajemen dan pelaporan ekstenerl kepada regulator sesuai dengan ketentuan pengaturan, dan kesiapan verifikasi.
 
-{% hint style="warning" %}
+{% hint style="success" %}
 Laporan internal KKS sebaiknya tidak berhenti pada penyajian skor. Direksi dan komite terkait di organisasi membutuhkan informasi yang dapat menjawab tiga pertanyaan utama:&#x20;
 
 1. _**Seberapa matang kondisi keamanan siber saat ini?**_&#x20;
