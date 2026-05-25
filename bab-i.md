@@ -25,15 +25,13 @@ Dokumen panduan ini tidak menggantikan ketentuan regulator dan perlu disesuaikan
 ## Ringkasan Eksekutif
 
 {% hint style="info" icon="briefcase" %}
-Panduan ini membantu organisasi di sektor keuangan Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Ketahanan dan Keamanan Siber (KKS)** secara terstruktur dengan menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, kemudian memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan. Pesan utama yang ingin disampaikan melalui dokumen ini adalah&#x20;
+Panduan ini membantu organisasi di sektor keuangan Indonesia untuk dapat menerapkan, menilai, dan meningkatkan **Ketahanan dan Keamanan Siber (KKS)** secara terstruktur dengan menggunakan **IKAS (Instrumen Penilaian Kematangan Keamanan Siber)** sebagai baseline pengukuran kematangan, kemudian memperkaya interpretasinya dengan konteks industri sektor keuangan yang ada di Indonesia seperti perbankan, BPR/BPRS, penyelenggara sistem pembayaran, pasar uang dan valuta asing, pembiayaan, asuransi, dana pensiun, penjaminan, pasar modal, agregator jasa keuangan, dan inovasi teknologi sektor keuangan. Pesan utama yang ingin disampaikan melalui dokumen ini adalah
 
-
-
-<p align="center"><mark style="color:red;"><strong>"Penguatan KKS di sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"</strong></mark> </p>
-
-
+<p align="center"><mark style="color:red;"><strong>"Penguatan KKS di sektor keuangan tidak cukup berhenti pada pemenuhan dokumen kepatuhan saja, tetapi harus dibuktikan dengan resiliensi yang teruji"</strong></mark></p>
 
 Hasil penilaian kematangan keamanan siber perlu diubah menjadi _risk-based roadmap_ yang menjadi referensi untuk membantu mengurangi risiko gangguan layanan kritikal, kebocoran data nasabah, fraud digital, gangguan sistem pembayaran, gangguan layanan digital, serta risiko pihak ketiga yang ada pada organisasi. Panduan ini juga menambahkan Bab khusus terkait Tim Tanggap Insiden Siber (TTIS) sebagai tim atau unit resmi organisasi yang bertugas mencegah, mengelola, dan menanggulangi gangguan serta serangan keamanan siber dari organisasi. TTIS Organisasi yang terdaftar resmi terhubung dengan ekosistem TTIS sesuai dengan pengaturan, dan menjadi bagian dari upaya pemerintah dalam meningkatkan ketahanan dan keamanan siber secara nasional.
+
+Panduan ini tidak dimaksudkan untuk menggantikan ketentuan regulator sektor atau otoritas yang berwenang. Panduan ini berfungsi sebagai acuan penyelarasan agar organisasi sektor keuangan dapat menerapkan pengukuran, pelaporan & kepatuhan, peningkatan kematangan, dan pengelolaan insiden siber secara konsisten, proporsional, dan berbasis risiko.
 {% endhint %}
 
 ***
@@ -86,16 +84,32 @@ Penilaian KKS di sektor keuangan perlu mendefinisikan cakupan sistem elektronik 
 
 ## 1.5 Cara Menggunakan Panduan
 
-Panduan ini digunakan secara bertahap agar hasil pengukuran KKS dapat diterjemahkan menjadi keputusan manajemen dan peningkatan kapabilitas yang nyata. Pertama, organisasi memahami ruang lingkup entitas, sistem, layanan kritikal, data, dan pihak ketiga yang menjadi objek penilaian. Kedua, organisasi memetakan kewajiban regulasi dan menempatkan IKAS sebagai instrumen pengukuran kematangan yang berbasis bukti. Ketiga, organisasi melakukan penilaian mandiri, menyusun laporan internal, dan menyiapkan pelaporan kepada regulator atau otoritas sesuai ketentuan. Keempat, organisasi menyusun peta jalan peningkatan KKS berdasarkan kesenjangan kematangan, profil risiko, dan prioritas layanan kritikal. Kelima, organisasi memperkuat TTIS sebagai fungsi operasional untuk mendeteksi, menangani, memulihkan, melaporkan, dan mengambil pembelajaran dari insiden siber.
+Panduan ini digunakan secara bertahap agar hasil pengukuran KKS dapat diterjemahkan menjadi keputusan manajemen dan peningkatan kapabilitas yang nyata. Secara umum, tahapan penggunaan panduan ini bagi organisasi adalah sebagai berikut.
 
-<table><thead><tr><th>Tahap</th><th>Fokus Penggunaan</th><th>Output Utama</th></tr></thead><tbody><tr><td><strong>1. Pemetaan ruang lingkup</strong></td><td>Menentukan layanan, sistem, data, unit, lokasi, dan pihak ketiga kritikal.</td><td>Scope penilaian KKS dan daftar objek kritikal.</td></tr><tr><td><strong>2. Pemetaan regulasi</strong></td><td>Mengidentifikasi kewajiban BSSN, OJK, BI, dan otoritas lain sesuai subsektor.</td><td>Regulatory reporting inventory dan matriks kepatuhan.</td></tr><tr><td><strong>3. Penilaian IKAS</strong></td><td>Mengukur kematangan KKS berbasis bukti dan menentukan gap prioritas.</td><td>Kertas kerja IKAS, evidence register, dan laporan self-assessment.</td></tr><tr><td><strong>4. Peta jalan peningkatan</strong></td><td>Mengubah gap menjadi rencana aksi berbasis risiko.</td><td>Roadmap KKS, KPI/KRI, anggaran, PIC, dan bukti penyelesaian.</td></tr><tr><td><strong>5. Penguatan TTIS</strong></td><td>Membangun kapabilitas respons insiden dan koordinasi eksternal.</td><td>Mandat TTIS, playbook, rekam insiden, pelaporan, dan pembelajaran pascainsiden.</td></tr></tbody></table>
+{% stepper %}
+{% step %}
+Organisasi perlu melakukan **Pemetaan ruang lingkup,** memahami ruang lingkup entitas, sistem, layanan kritikal, data, dan pihak ketiga yang menjadi objek penilaian. Penentuan ini akan membantu organisasi untuk menentukan layanan, sistem, data, unit, lokasi, dan pihak ketiga kritikal.&#x20;
+{% endstep %}
 
-{% hint style="info" %}
-Panduan ini tidak dimaksudkan untuk menggantikan ketentuan regulator sektor atau otoritas yang berwenang. Panduan ini berfungsi sebagai acuan penyelarasan agar organisasi sektor keuangan dapat menerapkan pengukuran, pelaporan, peningkatan kematangan, dan pengelolaan insiden siber secara konsisten, proporsional, dan berbasis risiko.
-{% endhint %}
+{% step %}
+Organisasi melakukan **Pemetaan regulasi** untuk memetakan kewajiban regulasi yang harus dipenuhi, mengidentifikasi kewajiban BSSN, OJK, BI, dan otoritas lain sesuai subsektor, dan menempatkan IKAS sebagai instrumen pengukuran kematangan yang berbasis bukti.
+{% endstep %}
+
+{% step %}
+Organisasi melakukan **Penilaian IKAS** secara mandiri berbasis bukti untuk menentukan gap prioritas. Kemudian menyusun laporan internal, dan menyiapkan pelaporan kepada regulator atau otoritas sesuai ketentuan.&#x20;
+{% endstep %}
+
+{% step %}
+Organisasi menyusun **Peta Jalan Peningkatan /** **Roadmap KKS** berdasarkan kesenjangan kematangan, profil risiko, dan prioritas layanan kritikal. Fokus Roadmap adalah mengubah gap menjadi rencana aksi berbasis risiko.
+{% endstep %}
+
+{% step %}
+Organisasi **Memperkuat TTIS** sebagai fungsi operasional untuk mendeteksi, menangani, memulihkan, melaporkan, dan mengambil pembelajaran dari insiden siber. Fokus penguatan TTIS untuk membangun kapabilitas respons insiden dan koordinasi eksternal.
+{% endstep %}
+{% endstepper %}
 
 ## Ringkasan Implikasi bagi Industri Sektor Keuangan
 
-<table><thead><tr><th>Area</th><th>Implikasi Praktis</th></tr></thead><tbody><tr><td><strong>Tata kelola</strong></td><td>Direksi dan komite terkait perlu menjadikan hasil KKS sebagai dasar pengambilan keputusan risiko, investasi keamanan, dan prioritas transformasi digital.</td></tr><tr><td><strong>Kepatuhan</strong></td><td>Organisasi perlu menyelaraskan kewajiban kepada BSSN, OJK, BI, dan otoritas lain sesuai izin usaha, status IIV, dan karakteristik layanan.</td></tr><tr><td><strong>Operasional</strong></td><td>Unit TI, keamanan siber, risiko, kepatuhan, legal, pelindungan data pribadi, komunikasi, dan TTIS perlu bekerja lintas fungsi.</td></tr><tr><td><strong>Ketahanan</strong></td><td>Penilaian IKAS harus menghasilkan rencana peningkatan yang dapat diuji melalui simulasi, audit, pemulihan, dan pembelajaran pascainsiden.</td></tr></tbody></table>
+<table><thead><tr><th width="173.998291015625" valign="top">Area</th><th valign="top">Implikasi Praktis</th></tr></thead><tbody><tr><td valign="top"><strong>Tata kelola</strong></td><td valign="top">Direksi dan komite terkait perlu menjadikan hasil KKS sebagai dasar pengambilan keputusan risiko, investasi keamanan, dan prioritas transformasi digital.</td></tr><tr><td valign="top"><strong>Kepatuhan</strong></td><td valign="top">Organisasi perlu menyelaraskan kewajiban kepada BSSN, OJK, BI, dan otoritas lain sesuai izin usaha, status IIV, dan karakteristik layanan.</td></tr><tr><td valign="top"><strong>Operasional</strong></td><td valign="top">Unit TI, keamanan siber, risiko, kepatuhan, legal, pelindungan data pribadi, komunikasi, dan TTIS perlu bekerja lintas fungsi.</td></tr><tr><td valign="top"><strong>Ketahanan</strong></td><td valign="top">Penilaian IKAS harus menghasilkan rencana peningkatan yang dapat diuji melalui simulasi, audit, pemulihan, dan pembelajaran pascainsiden.</td></tr></tbody></table>
 
 ***
