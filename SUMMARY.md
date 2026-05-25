@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Page 1](page-1.md)
 * [Document Version](document-version.md)
+* [Peta Dokumen](peta-dokumen.md)
 * [Bab I](bab-i.md)
 * [Bab II](bab-ii.md)
 * [Bab III](bab-iii.md)
